@@ -1,9 +1,9 @@
 
-SUPABASE_URL = "https://fmvxnojvyvurdgbkrkqy.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZtdnhub2p2eXZ1cmRnYmtya3F5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NTUwMDkzMiwiZXhwIjoyMDcxMDc2OTMyfQ.FaJ91LxX537_OvbjJzhesRtFvtCjA1lFrT5YrqStbDA"
+SUPABASE_URL = "https://jntrovvbeuscfjkfsqxo.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpudHJvdnZiZXVzY2Zqa2ZzcXhvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NTg1OTI4MiwiZXhwIjoyMDcxNDM1MjgyfQ.dCWOlORWdhuGpwlMRIMEM3qR0UVAxTipXwfPkhl6o_U"
 
 # ----------------- Timezones -----------------
-TARGET_TIMEZONE = "UTC"
+TARGET_TIMEZONE = "Asia/Tehran"
 SCRAPER_TIMEZONE = None
 
 
